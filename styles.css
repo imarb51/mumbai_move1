@@ -167,7 +167,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: url('img/main_banner.JPG');
+    background-image: url('img/main_banner.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
