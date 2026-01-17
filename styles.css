@@ -166,10 +166,10 @@ body {
 
 /* Hero Section */
 .hero {
-    height: 100vh;
+    height: 110vh;
     background-image: url('img/main_banner.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center 35%;
     background-attachment: fixed;
     display: flex;
     align-items: center;
